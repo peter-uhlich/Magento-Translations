@@ -1,0 +1,12 @@
+{
+  "name": "hgati/magento-translations",
+  "description": "Magento 1.x All Translation CSV Files",
+  "type": "magento-module",
+  "extra": {
+    "map": [
+      ["app/design/frontend/default/default/locale", "app/design/frontend/default/default/locale"],
+      ["app/design/frontend/default/modern/locale", "app/design/frontend/default/modern/locale"],
+      ["app/locale", "app/locale"]
+    ]
+  }
+}
