@@ -91,3 +91,5 @@ Turkish (Turkey)	97.30%<br>
 Ukrainian (Ukraine)	61.79%<br>
 Vietnamese (Vietnam)	2.78%<br>
 Welsh (United Kingdom)	10.87%<br>
+
+Great ~ Thanks
