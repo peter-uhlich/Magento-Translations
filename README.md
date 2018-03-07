@@ -1,4 +1,4 @@
-# Magento 1.x Translation CSV Files
+# Magento 1.x All Translation CSV Files
 
 Magento-Locales collected from : https://web.archive.org/web/20140717210430/http://www.magentocommerce.com/translations/ <br>
 Purpose: Currently Magento Translations official page doesn't exists.
