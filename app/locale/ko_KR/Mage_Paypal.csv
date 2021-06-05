@@ -83,7 +83,7 @@
 "There was an error connecting to the Paypal server: %s","There was an error connecting to the Paypal server: %s"
 "There was an error during communication with Paypal: %s - %s","There was an error during communication with Paypal: %s - %s"
 "Title","Title"
-"Transaction Type","Transaction Type"
+"Transaction Type","트랜잭션 타입"
 "Type","Type"
 "Unknown PayPal API error: %s","Unknown PayPal API error: %s"
 "Update Shipping Method","Update Shipping Method"
